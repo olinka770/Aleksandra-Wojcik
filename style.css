@@ -57,9 +57,7 @@ h3 {
 }
 
 .subtitle {
-	font-size: 50px;
-	padding: 2rem;
-	
+	font-size: 50px;	
 }
 
 .light-text {
@@ -162,6 +160,8 @@ a:hover {
 
 .my-projects td {
     padding: 30px;
+	font-size: 20px;
+	line-height: 25px;
 }
 
 @media only screen and (max-width: 600px) {
@@ -189,7 +189,8 @@ a:hover {
 .about-me
 p {
 	margin: 50px;
-	line-height: 25px;
+	font-size: 25px;
+	line-height: 30px;
 }
 
 .about-me img {
